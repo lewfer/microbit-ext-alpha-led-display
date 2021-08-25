@@ -1,3 +1,7 @@
+# Microbit Makecode Extension for the Adafruit 14-Segment Aphanumeric display
+This block will work with the display with the [I2C interface](https://www.adafruit.com/product/1912)
+
+![Alphanumeric Display](alpha.png)
 
 > Open this page at [https://lewfer.github.io/tcl-mb-alpha-led-display/](https://lewfer.github.io/tcl-mb-alpha-led-display/)
 
@@ -20,12 +24,5 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+![A rendered view of the blocks](alpha-blocks.png)
 
-![A rendered view of the blocks](https://github.com/lewfer/tcl-mb-alpha-led-display/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
