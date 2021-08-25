@@ -26,3 +26,5 @@ To edit this repository in MakeCode.
 
 ![A rendered view of the blocks](alpha-blocks.png)
 
+## Notes
+Currently does not support setting the decimal point.
